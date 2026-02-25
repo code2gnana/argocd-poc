@@ -2,6 +2,6 @@
 namespace: dev
 images:
   - name: mail2gnana/nginx
-    newTag: v0.1.2
+    newTag: v0.1.0
 resources:
   - ../../my-app-baase
