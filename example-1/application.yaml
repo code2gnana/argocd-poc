@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/code2gnana/argocd-poc.git
     targetRevision: HEAD
-    path: my-app
+    path: example-1/my-app
   destination:
     server: https://kubernetes.default.svc
   syncPolicy:
